@@ -1,2 +1,2 @@
 Collaboration Demo Project
-Version 2.0 - Branch A
+Version 2.0 - conflict resolved
