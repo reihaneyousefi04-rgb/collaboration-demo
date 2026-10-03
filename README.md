@@ -6,4 +6,4 @@ This project is used to practice Git and GitHub collaboration workflows.
 - Open an issue
 - Create a branch
 - Submit a pull request
-- Review the project documentation before contributing
+- Review the project documentation before contributing to understand the project and its workflow
