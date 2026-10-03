@@ -10,3 +10,4 @@ This project is used to practice Git and GitHub collaboration workflows.
 
 ## Project workflow
 Changes should be discussed through issues and submitted through pull requests for review before being merged into the main branch. This process helps contributors understand the project workflow and receive feedback before changes are integrated.
+This project demonstrates collaborative Git workflows.
